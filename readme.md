@@ -14,3 +14,4 @@ You can find the complete description of the project in the file "Project_descri
 
 ##
 This project was realised in the scope of the "Model predictive control" class (ME-425) thaught by Jones Colin Neil.
+ 
