@@ -4,7 +4,7 @@ The goal of this project is to design an MPC controller to control a rocket prot
 We first linearise the dynamics and use a linear MPS controller.
 And then we directly use a non linear MPC controller and compare the results.
 
-The final goal of the project was to track a path formed by the letters "MPC" in the air. 
+The final goal of the project was to track a path formed by the letters "EPFL" in the air. 
 
 Here is a snapchot of our tracking performances. 
 
