@@ -6,9 +6,10 @@ A linear MPC controller was first implemented, for which rocket dynamics were li
 The final goal of the project was to follow a path formed by the letters "EPFL" in the air. 
 
 ## Authors
+- [Noah Lugon](https://github.com/nlugon)
 - [Bassam El Rawas](https://github.com/BassamR)
 - [Vincent Gherold](https://github.com/VinceGHER)
-- [Noah Lugon](https://github.com/nlugon)
+
 
 ## Performance 
 
