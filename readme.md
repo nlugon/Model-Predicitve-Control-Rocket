@@ -1,16 +1,21 @@
-# Model_predictive_control_rocket_landing
-The goal of this project is to design an MPC controller to control a rocket prototype with controlable trust direction. 
+# Model Predictive Control for Rocket
+The goal of this project is to design and implement an MPC controller that controls a simulated rocket protype. Inputs considered are rocket position, orientation, angular velocity, and linear velocity. Outputs considered are throttle and thrust deflection angles.
 
-We first linearise the dynamics and use a linear MPS controller.
-And then we directly use a non linear MPC controller and compare the results.
+A linear MPC controller was first implemented, for which rocket dynamics were linearized. Next was implemented a non linear MPC controller, and performance of both controllers was compared.
 
-The final goal of the project was to track a path formed by the letters "EPFL" in the air. 
+The final goal of the project was to follow a path formed by the letters "EPFL" in the air. 
 
-Here is a snapchot of our tracking performances. 
+## Authors
+- [Bassam El Rawas](https://github.com/BassamR)
+- [Vincent Gherold](https://github.com/VinceGHER)
+- [Noah Lugon](https://github.com/nlugon)
+
+## Performance 
 
 <img width="620" alt="MPC Performance" src="https://user-images.githubusercontent.com/29159082/219495978-bf6a9ec0-db05-44c4-ac64-a5780d01ffaa.png">
-##
-You can find the complete description of the project in the file "Project_description.pdf". And we present our results in the file "MPC_Miniproject_Report.pdf".
+
+
+ Results are detailed in "MPC_Miniproject_Report.pdf".
 
 
 ##
