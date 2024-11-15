@@ -1,7 +1,7 @@
 # Model Predictive Control for Rocket
-The goal of this project is to design and implement an MPC controller that controls a simulated rocket protype. Inputs considered are rocket position, orientation, angular velocity, and linear velocity. Outputs considered are throttle and thrust deflection angles.
+The goal of this project is to design and implement an MPC controller that controls a simulated rocket prototype. Inputs considered are rocket position, orientation, angular velocity, and linear velocity. Outputs considered are throttle and thrust deflection angles.
 
-A linear MPC controller was first implemented, for which rocket dynamics were linearized. Next was implemented a non linear MPC controller, and performance of both controllers was compared.
+A linear MPC controller was first implemented, for which rocket dynamics were linearized. Next was implemented a non linear MPC controller, whose performance was compared with the linear controller.
 
 The final goal of the project was to follow a path formed by the letters "EPFL" in the air. 
 
@@ -20,5 +20,5 @@ The final goal of the project was to follow a path formed by the letters "EPFL" 
 
 
 ##
-This project was realised in the scope of the "Model predictive control" class (ME-425) thaught by Jones Colin Neil.
+This project was conducted in the scope of the "Model predictive control" class (ME-425) thaught by Prof. Colin Jones.
  
